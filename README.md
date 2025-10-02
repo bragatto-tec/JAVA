@@ -43,8 +43,8 @@ Cada projeto possui sua própria pasta com:
 **Desenvolvedor**: Guilherme Miyamoto Bragatto
 
 - 📧 Email: guimbragatto@gmail.com
-- 💼 LinkedIn: [seu-perfil](https://www.linkedin.com/in/guilherme-miyamoto-bragatto-2102b4355)
-- 🐙 GitHub: [@seu-usuario](https://github.com/bragatto-tec)
+- 💼 LinkedIn: [Meu perfil](https://www.linkedin.com/in/guilherme-miyamoto-bragatto-2102b4355)
+- 🐙 GitHub: [Meu usuário](https://github.com/bragatto-tec)
 
 ---
 
